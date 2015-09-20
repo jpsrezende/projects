@@ -1,5 +1,7 @@
 __author__ = 'Rezende'
 
+#Matricula : 1201978 Nome :Joao Pedro Dos Santos Rezende
+
 x = 100
 
 while x <= 3000:

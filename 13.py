@@ -1,5 +1,7 @@
 __author__ = 'Rezende'
 
+#Matricula : 1201978 Nome :Joao Pedro Dos Santos Rezende
+
 import random
 
 def pares():

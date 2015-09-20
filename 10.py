@@ -1,5 +1,7 @@
 __author__ = 'Rezende'
 
+#Matricula : 1201978 Nome :Joao Pedro Dos Santos Rezende
+
 print ('Qual seu sexo ? 1 - Feminino, 2 - Masculino')
 sexo = int (input())
 print ('Qual seu tamanho ? ')
